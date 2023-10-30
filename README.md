@@ -15,21 +15,21 @@
 
 🛠 Tech Stack:
 
-    🌐 Web: HTML, CSS, Angular <br>
+    🌐 Web: HTML, CSS, Angular 
 
-    🪶 Languages: C, Java, Python <br>
+    🪶 Languages: C, Java, Python 
 
-    🤖 Mobile: Java and Kotlin for Android <br>
+    🤖 Mobile: Java and Kotlin for Android 
 
-    📊 Data: MySQL, MongoDB <br>
+    📊 Data: MySQL, MongoDB 
 
-    ☁️ Cloud: AWS, GCP, Azure <br>
+    ☁️ Cloud: AWS, GCP, Azure 
 
-    📈 Visualization: Tableau, Lucid Chart <br>
+    📈 Visualization: Tableau, Lucid Chart 
 
-    🔧 Utilities:<br>
-         * Version Control: Git <br>
-         * Text Editors & IDEs: IntelliJ, PyCharm, Eclipse, Sublime Text, Jupyter Notebook, Google Colab <br>
+    🔧 Utilities:
+         * Version Control: Git 
+         * Text Editors & IDEs: IntelliJ, PyCharm, Eclipse, Sublime Text, Jupyter Notebook, Google Colab 
 
   
 <br>
