@@ -1,6 +1,6 @@
 ### Hello there 👋🏻
 
-🏛️ I am Sai Emani(he/him), currently a CS grad student at the University of Colorado Denver. 
+🏛️ I am Sai Emani(he/him), currently a CS grad student at the University of Colorado Denver. <br>
 🤓 This post highlights a few not-so-technical engineering elements and non-technical technicalities of mine.
 
 ## About Me 🎓
