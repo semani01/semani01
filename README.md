@@ -41,7 +41,7 @@
 
 📣 Let's Connect!:
 
-🐦 Twitter: [esaisrikar](https://twitter.com/esaisrikar)
+🐦 X/Twitter: [esaisrikar](https://twitter.com/esaisrikar)
 🌍 LinkedIn: [Sai Srikar Emani](https://www.linkedin.com/in/saisrikaremani/)
 📫 Email: esrikar01@gmail.com
 
