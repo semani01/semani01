@@ -23,9 +23,9 @@ This post highlights...
 
 ☁️ Cloud: AWS, GCP, Azure <br>
 
-🔧 Utilities:  
-       * Version Control: Git <br>
-       * Text Editors & IDEs: IntelliJ, PyCharm, Eclipse, Sublime Text, Jupyter Notebook, Google Colab <br>
+🔧 Utilities:
+      * Version Control: Git <br>
+      * Text Editors & IDEs: IntelliJ, PyCharm, Eclipse, Sublime Text, Jupyter Notebook, Google Colab <br>
 
   
 
