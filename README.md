@@ -15,14 +15,13 @@ This post highlights...
 
 🛠 Tech Stack:
 
-🌐 Web: HTML, CSS, Angular
-🤖 Mobile: Java and Kotlin for Android
-📊 Data: MySQL
-☁️ Cloud: AWS, GCP
-<br>
-🔧 Utilities: 
-  * Version Control: Git
-  * Text Editors & IDEs: IntelliJ, PyCharm, Eclipse, Sublime Text, Jupyter Notebook, Google Colab
+🌐 Web: HTML, CSS, Angular <br>
+🤖 Mobile: Java and Kotlin for Android <br>
+📊 Data: MySQL, MongoDB <br>
+☁️ Cloud: AWS, GCP, Azure <br>
+🔧 Utilities: <br>
+  * Version Control: Git <br>
+  * Text Editors & IDEs: IntelliJ, PyCharm, Eclipse, Sublime Text, Jupyter Notebook, Google Colab <br>
 
   
 
