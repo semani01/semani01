@@ -5,9 +5,10 @@ This post highlights...
 
 ## About Me
 
-When I'm not doing academics, you can find me at a park or a yoga studio doing meditation. I also immerse myself in F1 and gaming. During interludes, I cycle, read, explore and hit the gym. I nerd hard for anything and everything Star Wars and Marvel, and have recently taken to [cooking](https://www.instagram.com/stories/highlights/18305490811140917/). 
+When I'm not doing academics, you can find me at a park or a yoga studio doing meditation. I also immerse myself in F1 and gaming. During interludes, I cycle, read, explore, and hit the gym. I nerd hard for anything and everything Star Wars and Marvel, and have recently taken to [cooking](https://www.instagram.com/stories/highlights/18305490811140917/). 
 
 
+I completed my undergrad from KL University, Hyderabad with a Bachelor's in Computer Science. During my sophomore year, I interned with the National Institute of Electronic and Information Technology (NIELIT), an autonomous scientific society within the Govt. of India where I got my hands on enterprise-level Android applications. The following year, I was fortunate to have interned at Samsung Prism where I deep-dived into machine learning and deep learning technologies. 
 
 
 
