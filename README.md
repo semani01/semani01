@@ -19,7 +19,7 @@ This post highlights...
 🤖 Mobile: Java and Kotlin for Android <br>
 📊 Data: MySQL, MongoDB <br>
 ☁️ Cloud: AWS, GCP, Azure <br>
-🔧 Utilities: <br>
+🔧 Utilities: 
   * Version Control: Git <br>
   * Text Editors & IDEs: IntelliJ, PyCharm, Eclipse, Sublime Text, Jupyter Notebook, Google Colab <br>
 
