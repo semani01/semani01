@@ -13,24 +13,27 @@ I am **Sai Emani (he/him)**, a CS graduate student at the University of Colorado
 
 ## Skills & Tech Stack
 
-- **Programming Languages**: Java, Python, SQL, C  
-- **Machine Learning Frameworks**: TensorFlow, Keras, PyTorch, Scikit-learn  
-- **Natural Language Processing & Deep Learning**:  
+- 💻 **Programming Languages**: Java, Python, SQL, C  
+- 🤖 **Machine Learning Frameworks**: TensorFlow, Keras, PyTorch, Scikit-learn  
+- 🧠 **Natural Language Processing & Deep Learning**:  
   - Hugging Face Transformers, GPT-3/4, BERT, NLTK  
   - CNN, RNN, LSTM, GRU, Transformers, Attention Mechanisms  
-- **Data Processing & Analysis**: Pandas, NumPy, Matplotlib, Seaborn, SciPy  
-- **Web & App Development**: Flask, React, Node.js, Android Frameworks  
-- **Tools & Version Control**: Git, Jupyter Notebook, PyCharm, VS Code  
-- **Other Technologies**: MySQL, PostgreSQL, MongoDB, OpenCV, NetworkX, Prompt Engineering  
+- 📊 **Data Processing & Analysis**: Pandas, NumPy, Matplotlib, Seaborn, SciPy  
+- 🌐 **Web & App Development**: Flask, React, Node.js, Android Frameworks  
+- ⚙️ **Tools & Version Control**: Git, Jupyter Notebook, PyCharm, VS Code  
+- 🚀 **Other Technologies**: MySQL, PostgreSQL, MongoDB, OpenCV, NetworkX, Prompt Engineering  
+- ☁️ **Cloud**: AWS, GCP, Azure  
+- 📈 **Visualization**: Tableau, Lucid Chart  
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 [![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=semani01)](https://github.com/semani01)
 
 ---
 
 ## Let’s Connect!
-- **X/Twitter**: [esaisrikar](https://twitter.com/esaisrikar)  
-- **LinkedIn**: [Sai Srikar Emani](https://www.linkedin.com/in/saisrikaremani/)  
-- **Email**: esrikar01@gmail.com  
+
+- 🐦 **X/Twitter**: [esaisrikar](https://twitter.com/esaisrikar)  
+- 🌍 **LinkedIn**: [Sai Srikar Emani](https://www.linkedin.com/in/saisrikaremani/)  
+- ✉️ **Email**: [esrikar01@gmail.com](mailto:esrikar01@gmail.com)  
