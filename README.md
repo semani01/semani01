@@ -22,8 +22,6 @@ I am **Sai Emani (he/him)**, a CS graduate student at the University of Colorado
 - 🌐 **Web & App Development**: Flask, React, Node.js, Android Frameworks  
 - ⚙️ **Tools & Version Control**: Git, Jupyter Notebook, PyCharm, VS Code  
 - 🚀 **Other Technologies**: MySQL, PostgreSQL, MongoDB, OpenCV, NetworkX, Prompt Engineering  
-- ☁️ **Cloud**: AWS, GCP, Azure  
-- 📈 **Visualization**: Tableau, Lucid Chart  
 
 ---
 
