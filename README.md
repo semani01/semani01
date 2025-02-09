@@ -17,7 +17,7 @@ I am **Sai Emani (he/him)**, a CS graduate student at the University of Colorado
 - 🤖 **Machine Learning Frameworks**: TensorFlow, Keras, PyTorch, Scikit-learn  
 - 🧠 **Natural Language Processing & Deep Learning**:  
   - Hugging Face Transformers, GPT-3/4, BERT, NLTK  
-  - CNN, RNN, LSTM, GRU, HuggingFace Transformers, Attention Mechanisms  
+  - CNN, RNN, LSTM, GRU, Transformers, Attention Mechanisms  
 - 📊 **Data Processing & Analysis**: Pandas, NumPy, Matplotlib, Seaborn, SciPy  
 - 🌐 **Web & App Development**: Flask, React, Node.js, Android Frameworks  
 - ⚙️ **Tools & Version Control**: Git, Jupyter Notebook, PyCharm, VS Code  
