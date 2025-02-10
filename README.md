@@ -34,4 +34,4 @@ I am **Sai Emani (he/him)**, a CS graduate student at the University of Colorado
 
 - 🐦 **X/Twitter**: [esaisrikar](https://twitter.com/esaisrikar)  
 - 🌍 **LinkedIn**: [Sai Srikar Emani](https://www.linkedin.com/in/saisrikaremani/)  
-- ✉️ **Email**: [esrikar01@gmail.com](mailto:esrikar01@gmail.com)  
+- ✉️ **Email**: [esaisrikar@gmail.com](mailto:esrikar01@gmail.com)  
