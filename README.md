@@ -1,6 +1,6 @@
 # Hello there 👋🏻
 
-I am **Sai Emani (he/him)**, a CS graduate student at the University of Colorado Denver and a **Research Assistant** focusing on advanced **computational motor control** research. This README highlights a few not-so-technical engineering elements and non-technical technicalities of mine.
+I am **Sai Srikar Emani (he/him)**, a CS graduate student at the University of Colorado Denver and a **Research Assistant** focusing on advanced **computational motor control** research. This README highlights a few not-so-technical engineering elements and non-technical technicalities of mine.
 
 ---
 
