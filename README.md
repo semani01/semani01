@@ -19,7 +19,7 @@ I am **Sai Emani (he/him)**, a CS graduate student at the University of Colorado
   - Hugging Face Transformers, GPT-3/4, BERT, NLTK  
   - CNN, RNN, LSTM, GRU, Transformers, Attention Mechanisms  
 - 📊 **Data Processing & Analysis**: Pandas, NumPy, Matplotlib, Seaborn, SciPy  
-- 🌐 **Web & App Development**: Flask, React, Node.js, Android Frameworks  
+- 🌐 **Web & App Development**: Flask, React, Node.js, HTML, CSS Android Frameworks  
 - ⚙️ **Tools & Version Control**: Git, Jupyter Notebook, PyCharm, VS Code  
 - 🚀 **Other Technologies**: MySQL, PostgreSQL, MongoDB, OpenCV, NetworkX, Prompt Engineering  
 
