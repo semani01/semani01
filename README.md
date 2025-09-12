@@ -4,7 +4,7 @@ I am **Sai Emani (he/him)**, a CS graduate student at the University of Colorado
 
 ---
 
-## About Me 🎓
+## About Me 
 - 🧘‍♂️ When I’m not doing academics, you can find me in a park or yoga studio practicing meditation. I also immerse myself in F1 racing and gaming. During interludes, I cycle, read, explore, and hit the gym. I nerd out hard for anything and everything Star Wars and Marvel, and have recently taken to [cooking](https://www.instagram.com/stories/highlights/18305490811140917/).
 - 🖥️ I completed my undergrad at KL University, Hyderabad, with a Bachelor’s in Computer Science. During my sophomore year, I interned at the National Institute of Electronic and Information Technology (NIELIT), an autonomous scientific society within the Govt. of India, where I worked on enterprise-level Android applications. The following year, I interned at Samsung Prism, diving into machine learning and deep learning technologies.
 - 📚 I’m currently exploring **Data Structures & Algorithms**, **Computational Motor Control**, **Data Science**, **Generative AI** and **Machine Learning**.
