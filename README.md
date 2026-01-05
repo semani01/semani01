@@ -27,7 +27,7 @@ I am **Sai Emani (he/him)**, a CS graduate student at the University of Colorado
 
 ## 📊 GitHub Stats
 
-[![Sai's GitHub Stats](https://my-github-readme-stats-pi.vercel.app/api?username=semani01&show_icons=true&theme=dark)](https://github.com/semani01)
+[![Sai's GitHub Stats](https://my-github-readme-stats-pi.vercel.app/api?username=semani01&show_icons=true&theme=github_dark)](https://github.com/semani01)
 
 ---
 
